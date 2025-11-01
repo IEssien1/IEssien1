@@ -8,7 +8,7 @@ Tools: **Python, SQL, Spreadsheets (Excel|Sheets), PowerBI, Github...**
 
 - 🔭 I’m currently working on projects in the **Sales**, **finance** and **healthcare** space.
 - 🌱 I’m currently learning **data pipeline ochestration and monitoring on databricks** in order to gain acumen in cloud data engineering.
-- 👯 I’m looking to collaborate on projects in either sales, finance or healthcare niche.
+- 👯 I’m looking to collaborate on projects in the sales, finance or healthcare niche.
 - 📫 You can reach me through **[my email](mailto:essienisaiah96@gmail.com)**
   
 I'll be happy to hear from you! 😄
