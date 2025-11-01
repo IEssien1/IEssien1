@@ -6,9 +6,9 @@ a first class statistician and an ALX-trained data scientist.
 
 Tools: **Python, SQL, Spreadsheets (Excel|Sheets), PowerBI, Github...**
 
-- 🔭 I’m currently working on projects in the **finance** and **healthcare** space.
-- 🌱 I’m currently learning **databricks** in order to gain cloud analytics skills.
-- 👯 I’m looking to collaborate on projects in either finance or healthcare niche.
+- 🔭 I’m currently working on projects in the **Sales**, **finance** and **healthcare** space.
+- 🌱 I’m currently learning **databricks** in order to gain acumen in data engineering.
+- 👯 I’m looking to collaborate on projects in either sales, finance or healthcare niche.
 - 📫 You can reach me through **[my email](mailto:essienisaiah96@gmail.com)**
   
 I'll be happy to hear from you! 😄
