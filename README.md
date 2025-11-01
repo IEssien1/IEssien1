@@ -9,7 +9,7 @@ Tools: **Python, SQL, Spreadsheets (Excel|Sheets), PowerBI, Github...**
 - 🔭 I’m currently working on projects in the **finance** and **healthcare** space.
 - 🌱 I’m currently learning **databricks** in order to gain cloud analytics skills.
 - 👯 I’m looking to collaborate on projects in either finance or healthcare niche.
-- 📫 How to reach me through **[my email](mailto:essienisaiah96@gmail.com)**
+- 📫 You can reach me through **[my email](mailto:essienisaiah96@gmail.com)**
   
 I'll be happy to hear from you! 😄
 
